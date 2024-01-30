@@ -14,7 +14,7 @@ This application send the stream all request to the 'Zicuro Mock Exchange Server
 3. Run the Java file.
  - Run `java Myclass` in terminal to run the code.
 
-NOTE: If you are facing below error, restart the server as mentioned in the above point 2, run the `java javastart` then perform point 3 again.
+NOTE: If you are facing below error at server side and getting the empty array as output, restart the server as mentioned in the above point 2, run the `java javastart` then perform point 3 again.
 ```bash
 node:events:492
       throw er; // Unhandled 'error' event
